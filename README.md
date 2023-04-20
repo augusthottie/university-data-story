@@ -6,24 +6,8 @@ This project involves the visualization of the dataset containing the rankings o
 
 The dataset used for this project is available at [THE World University Rankings 2011-2023](https://www.kaggle.com/datasets/r1chardson/the-world-university-rankings-2011-2023) . It contains information about the rankings of universities from 2011 to 2021, based on factors such as teaching score, research score, citations per faculty, and more.
 
-## Tools and Technologies
 
-The project is implemented using Python and various libraries such as,
-
- - pandas 
- - matplotlib
- - folium
- - Seaborn. 
- 
-The tools we have used are,
-
- - PowerBI
- - Canva
- 
- The data is preprocessed, analyzed, and visualized using these tools and technologies.
-
-## Visualizations
-
+## Data story
 The following visualizations have been created as part of this project:
 
 - Data covered over years from 2011-2021
@@ -43,6 +27,37 @@ The following visualizations have been created as part of this project:
   - Number of universities by location
   - Industry income vs Location
  
+## Thought process
+
+We explored the world university rankings dataset and realized the potential for uncovering insights about the global higher education landscape.
+
+To start, we conducted a preliminary analysis of the dataset and noticed some interesting trends, such as the high rank of the universities in Europe and the USA. We decided to focus on these trends and used a line plot to visualize the average scores_teaching and scores_research of universities located in these regions, over a period of 10 years from 2011 to 2021.
+
+To investigate the relationships between different variables in the dataset, we will create a correlation matrix and included it in our story.
+
+In addition to the correlation matrix, we will also include a map visualization that shows the location of universities in different regions across the world for the year 2011.
+
+Our main goal with this data story is to provide insights into the trends and rankings of various universities across the world.
+
+
+## Tools and Technologies
+
+The project is implemented using Python and various libraries such as,
+
+ - pandas 
+ - matplotlib
+ - folium
+ - Seaborn. 
+ 
+The tools we have used are,
+
+ - PowerBI
+ - Canva
+ 
+ The data is preprocessed, analyzed, and visualized using these tools and technologies.
+ 
+
+
 ## Conclusion
 
 Through the visualizations, we can conclude that there is a significant variation in the performance of universities across the world. Some regions consistently perform better than others, while some universities have shown a consistent improvement in their rankings over the years.
@@ -60,7 +75,5 @@ Through the visualizations, we can conclude that there is a significant variatio
 ## Acknowledgments
 
 [Thank You angelhack for this challange.]
-
-If you have a Power BI account, you can access and interact with the file by downloading a local copy and opening it in your Power BI desktop application. Link to download PowerBI Desktop app &rarr; https://powerbi.microsoft.com/en-us/downloads/
 
 Feel free to modify this outline and add any additional information that you feel is necessary. Good luck with your project!
