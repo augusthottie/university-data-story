@@ -4,7 +4,7 @@ This project involves the visualization of the dataset containing the rankings o
 
 ## Dataset
 
-The dataset used for this project is available at [THE World University Rankings 2011-20230](https://www.kaggle.com/datasets/r1chardson/the-world-university-rankings-2011-2023) . It contains information about the rankings of universities from 2011 to 2021, based on factors such as teaching score, research score, citations per faculty, and more.
+The dataset used for this project is available at [THE World University Rankings 2011-2023](https://www.kaggle.com/datasets/r1chardson/the-world-university-rankings-2011-2023) . It contains information about the rankings of universities from 2011 to 2021, based on factors such as teaching score, research score, citations per faculty, and more.
 
 ## Tools and Technologies
 
