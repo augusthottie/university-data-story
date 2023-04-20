@@ -56,6 +56,13 @@ The tools we have used are,
  
  The data is preprocessed, analyzed, and visualized using these tools and technologies.
  
+## Data Story
+
+https://user-images.githubusercontent.com/106215707/233413154-adcce161-b0a0-4668-b8ac-e920a4326780.mp4
+
+### Dashboard
+
+![Dashboard](https://user-images.githubusercontent.com/106215707/233413610-93677ebe-de4a-4071-8ee1-c7ec0a1c203d.png)
 
 
 ## Conclusion
