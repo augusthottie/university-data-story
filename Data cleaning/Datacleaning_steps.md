@@ -2,6 +2,17 @@
 
 To clean the data, you can follow these steps using Python and related libraries:
 
+## Setting up your environment
+
+This assumes you already have jupyter notebook installed on your machine. If by any chance it's not yet installed, you can get it [here](https://www.anaconda.com/download).
+
+1. In the terminal of your choice, type this command to create your conda environment: 
+conda env create -f data_science.yml
+
+2. Activate the environment: conda activate sds_python
+
+3. Finally type jupyter notebook to launch the jupyter server
+
 ## Merge all files
 
 - If you have multiple data files to be cleaned, you can use a library like Pandas to read and merge them into a single DataFrame.
