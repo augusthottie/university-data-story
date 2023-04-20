@@ -1,4 +1,4 @@
-# Data Visualization Project For Angelhack Mothly coding challange
+# Data Visualization Project For Angelhack Monthly coding challange
 
 This project involves the visualization of the dataset containing the rankings of universities around the world. The aim is to explore the data and derive insights about the performance of universities based on various factors.
 
