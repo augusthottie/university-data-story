@@ -7,7 +7,7 @@ To clean the data, you can follow these steps using Python and related libraries
 This assumes you already have jupyter notebook installed on your machine. If by any chance it's not yet installed, you can get it [here](https://www.anaconda.com/download).
 
 1. In the terminal of your choice, type this command to create your conda environment: 
-conda env create -f data_science.yml
+conda env create -f Dependencies.yml
 
 2. Activate the environment: conda activate sds_python
 
