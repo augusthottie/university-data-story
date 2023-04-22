@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/106215707/233413154-adcce161-b0a0-4668
 
 ### Dashboard
 
-![Dashboard](https://user-images.githubusercontent.com/106215707/233413610-93677ebe-de4a-4071-8ee1-c7ec0a1c203d.png)
+![Dashboard](Data visualization/Dashboard_1.png)
 
 
 ## Conclusion
@@ -82,5 +82,7 @@ Through the visualizations, we can conclude that there is a significant variatio
 ## Acknowledgments
 
 [Thank You angelhack for this challange.]
+
+If you have PowerBI account, you can access and interact with the file by downloading a local copy and opening it in your PowerBI desktop application. Link to download PowerBI desktop app &rarr; https://powerbi.microsoft.com/en-us/downloads/
 
 Feel free to modify this outline and add any additional information that you feel is necessary. Good luck with your project!
