@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/106215707/233413154-adcce161-b0a0-4668
 
 ### Dashboard
 
-![Dashboard](Data visualization/Dashboard_1.png)
+![Dashboard](https://github.com/AugustHottie/university-data-story/blob/main/Data%20visualization/Dashboard_1.png?raw=true)
 
 
 ## Conclusion
