@@ -77,7 +77,7 @@ Through the visualizations, we can conclude that there is a significant variatio
   - Location may impact the industry income
 
 
-If you have PowerBI account, you can access and interact with the file by downloading a local copy and opening it in your PowerBI desktop application. Link to download PowerBI desktop app &rarr; https://powerbi.microsoft.com/en-us/downloads/
+If you have a PowerBI account, you can access and interact with the file by downloading a local copy from the ->Data Visualisation folder and open it in your PowerBI desktop application. Link to download PowerBI desktop app &rarr; https://powerbi.microsoft.com/en-us/downloads/
 
 ## Acknowledgments
 
