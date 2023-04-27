@@ -60,6 +60,8 @@ The tools we have used are,
 
 https://user-images.githubusercontent.com/106215707/233413154-adcce161-b0a0-4668-b8ac-e920a4326780.mp4
 
+### You can access our report from [here](https://app.powerbi.com/view?r=eyJrIjoiZmIxNjlkOGEtMmJlOS00NDMzLWIzMGQtZmQ1NDE5YjMxNzY0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
+
 ### Dashboard
 
 ![Dashboard](https://github.com/AugustHottie/university-data-story/blob/main/Data%20visualization/Dashboard_1.png?raw=true)
@@ -76,8 +78,6 @@ Through the visualizations, we can conclude that there is a significant variatio
   - Location does impact the rankings but we can't say that confirmly because we don't have all the university data in 2011.
   - Location may impact the industry income
 
-
-If you have a PowerBI account, you can access and interact with the file by downloading a local copy from the ->Data Visualisation folder and open it in your PowerBI desktop application. Link to download PowerBI desktop app &rarr; https://powerbi.microsoft.com/en-us/downloads/
 
 ## Acknowledgments
 
